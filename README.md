@@ -6,7 +6,7 @@ Inside of this repo you will wind configuration file and stylesheets for multipl
 You find inside:
 
 * my Hyprland file configuration
-* wofi configuration + stylesheet
+* wofi stylesheet
 * waybar confg + stylesheet
 * hyprpaper
 
