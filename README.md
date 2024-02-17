@@ -17,6 +17,7 @@ Wich package you need:
 * wofi
 * waybar
 * ttf-font-awesome
+* audio package(pipewire OR pamixer)  <-- there's multiple alternatives
 
 
 
